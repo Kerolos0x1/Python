@@ -1,11 +1,13 @@
 # Some Basics Python Projects
 
-ATM --> Is an Simulating for the ATM
+ATM --> Simulating for the ATM
 
-Encryption --> Is Using for Encrypt the Text
+Encryption --> Using for Encrypt text
 
-Password Generator --> Generate Some Random and Complex Passwords
+Password Generator --> Generate some random and complex passwords
 
-Scanner --> Using for Making Port Scanning by Getting the Ports Number Range and the IP Address
+Scanner --> Using for making Port Scanning by getting the Ports number range and the IP address
 
 Web --> Getting the IP of an Domain
+
+Face_Detect --> To detect how many faces are in the image using CV2 module
